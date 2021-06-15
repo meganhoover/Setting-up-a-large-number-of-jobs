@@ -3,7 +3,8 @@
 # Copyright © Megan Hoover
 # 1/8/2020
 # PhD student at Clemson University
-# This script makes directories, copies initial files into those directories, edits those copied files, and submits the job.
+# This script was created with the help of @author Nick Lee <devpanda33@gmail.com>
+# This script makes directories, copies initial files into those directories, edits those copied files, and submits the job. Specific for VASP initial files.
 #----------------------------------------
 
 LDIR="211_spin1_T2"
